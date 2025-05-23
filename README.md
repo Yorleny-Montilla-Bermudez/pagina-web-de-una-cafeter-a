@@ -19,10 +19,10 @@ Este es un proyecto de una página web sencilla para una cafetería ficticia. Es
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/Yorleny-Montilla-Bermudez/pagina-web-de-una-cafeteria.git
+   
+Abre el archivo index.html en tu navegador para ver la página.
 
-   Abre el archivo index.html en tu navegador para ver la página.
-
-Características
+Características:
 Diseño responsive para dispositivos móviles y de escritorio.
 
 Sección de menú con productos destacados.
@@ -31,14 +31,14 @@ Información de contacto y ubicación.
 
 Navegación sencilla y clara.
 
-Próximas mejoras
+Próximas mejoras:
 Añadir interactividad con JavaScript (formularios, animaciones).
 
 Optimizar imágenes para mejor rendimiento.
 
 Implementar accesibilidad mejorada.
 
-Contacto
+Contacto:
 Puedes contactarme para dudas o sugerencias a través de:
 
 Email: yorleny.montilla.b@gmail.com
