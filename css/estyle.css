@@ -473,3 +473,17 @@ body {
     text-align: center;
     color: var(--hover-color);
 }
+
+#carrito-info.oculto {
+  display: none;
+}
+
+#carrito-info {
+  margin-top: 10px;
+  background-color: #fff;
+  padding: 10px;
+  border: 2px solid #663300;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
